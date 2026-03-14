@@ -1,5 +1,7 @@
 ## Hi there, I'm Tsun Wai 👋
 
+I am a Computational Linguistics student specializing in AI engineering and NLP, with hands-on experience building Generative AI applications, RAG systems, and training machine learning models.
+
 <!--
 **TsunWai-Wong/TsunWai-Wong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
